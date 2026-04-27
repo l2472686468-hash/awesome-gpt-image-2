@@ -5865,3 +5865,137 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 ```
 
 ***
+
+<a name="case-347"></a>
+
+### 例 347：4×4 动作分解参考表
+
+![4×4 动作分解参考表](../data/images/case347.jpg)
+
+**来源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
+
+**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 12:04（北京时间）。
+
+**提示词：**
+
+```text
+[STYLE]
+Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.
+
+[LAYOUT]
+4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.
+
+[CHARACTER]
+image1 (the same character appears consistently in all panels)
+
+[PANEL STRUCTURE – per cell]
+Top-left: bold number badge + English title text
+Center: full-body character pose illustration
+Bottom-left: English description text (3–4 lines)
+Overlay: directional arrows indicating movement
+
+[ARROWS / MOTION INDICATORS]
+Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.
+
+[RENDERING STYLE]
+Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.
+
+[NEGATIVE]
+No background scenery, no color tones, no additional characters, no complex background.
+```
+
+***
+
+<a name="case-348"></a>
+
+### 例 348：胡须风格分析海报
+
+![胡须风格分析海报](../data/images/case348.jpg)
+
+**来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
+
+**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:48（北京时间）。
+
+**提示词：**
+
+```text
+Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+```
+
+***
+
+<a name="case-349"></a>
+
+### 例 349：运动时尚三联 Campaign
+
+![运动时尚三联 Campaign](../data/images/case349.jpg)
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
+
+**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:32（北京时间）。
+
+**提示词：**
+
+```text
+Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
+
+Bottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly.
+
+Bottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.
+
+Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.
+```
+
+***
+
+<a name="case-350"></a>
+
+### 例 350：足球球员数据涂鸦海报
+
+![足球球员数据涂鸦海报](../data/images/case350.jpg)
+
+**来源：** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
+
+**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:16（北京时间）。
+
+**提示词：**
+
+```text
+Create a scrapbook doodle-style football poster of [PLAYER_NAME].
+
+AI auto-generates realistic career stats (club and national team).
+
+Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).
+
+Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.
+
+Layout (bold handwritten titles and stats):
+- Top Title: "[PLAYER_NAME]" plus "[NICKNAME/TITLE]"
+- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)
+- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)
+- National Team: caps and goals plus 1–2 international achievements
+
+Style: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.
+
+Important: all stats must be realistic and proportional to the player's real career.
+```
+
+***
+
+<a name="case-351"></a>
+
+### 例 351：健身品牌力量 Campaign
+
+![健身品牌力量 Campaign](../data/images/case351.jpg)
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
+
+**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:13（北京时间）。
+
+**提示词：**
+
+```text
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+```
+
+***
